@@ -1,0 +1,18 @@
+Przykładowa struktura pliku odpowiadającego obiektowi Linia:
+Informacja A/T przed każdą nazwą pliku na liście
+
+Numer
+Klimatyzacja - 0/1
+Niskopodłogowy - 0/1
+Elektryczny - 0/1 (przy czym każdy tramwaj jest oczywiście elektryczny)
+Liczba przystanków na trasie
+Przystanek 1
+...
+Przystanek n
+Ile minut od przystanku 1 do przystanku 1? 0
+Ile minut od przystanku 2 do przystanku 1? ...
+...
+Ile minut od przystanku n do przystanku 1? ...
+Godzina wyjazdu
+Kolejna godzina wyjazdu
+... (i tak do końca pliku)

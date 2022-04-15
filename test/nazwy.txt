@@ -1,0 +1,10 @@
+T
+linia11.txt
+T
+linia6.txt
+A
+linia145.txt
+T
+linia17.txt
+A
+linia118.txt
