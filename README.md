@@ -18,7 +18,7 @@ Analogicznie do prawdziwego życia na każdym przystanku mamy listę kursującyc
 
 ### `Linia`
 
-Każda linia składa się z listy przystanków na trasie, informacji o tym ile minut zajmuje dojechanie do każdego przystanku z zajezdni i godziny wyjazdów z tej zajezdni. Obiekt tej klasy konstruowany jest na podstawie pliku, którego nazwa jest argumentem konstruktora. Przy tworzeniu obiektu tej klasy propagujemy również dane nowo utworzonej linii do wszystkich przystanków na trasie ()
+Każda linia składa się z listy przystanków na trasie, informacji o tym ile minut zajmuje dojechanie do każdego przystanku z zajezdni i godziny wyjazdów z tej zajezdni. Obiekt tej klasy konstruowany jest na podstawie pliku, którego nazwa jest argumentem konstruktora. Przy tworzeniu obiektu tej klasy propagujemy również dane nowo utworzonej linii do wszystkich przystanków na trasie.
 
 #### `LiniaAutobusowa` i `LiniaTramwajowa`
 
